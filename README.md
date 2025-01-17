@@ -74,9 +74,9 @@ This Python script builds a forecasting model for an ETF portfolio using **LSTM 
 
 ## Visualization Examples
 
-- **Historical Prices**: Plots showing the adjusted close prices.  
-- **Prediction Performance**: Line graphs comparing actual vs predicted values.  
-- **Future Price Trends**: Visualized forecasts for the portfolio over 6 months.  
+![image alt](https://github.com/massimocapuano0/DeepRisk/blob/5a186ec694125e57f8337631906c8f46682071e2/LSTM%20analysis.png)
+![image alt](https://github.com/massimocapuano0/DeepRisk/blob/5a186ec694125e57f8337631906c8f46682071e2/VaR.png)
+![image alt](https://github.com/massimocapuano0/DeepRisk/blob/5a186ec694125e57f8337631906c8f46682071e2/VaR2.png)
 
 ---
 
